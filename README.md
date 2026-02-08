@@ -13,3 +13,19 @@ My personal collection of LeetCode problem solutions.
 - 
 **Note**: Solutions are written in C++ and Java.(Harshit seth)
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0110-balanced-binary-tree) |
+<!---LeetCode Topics End-->
