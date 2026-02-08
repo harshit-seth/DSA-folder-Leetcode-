@@ -28,4 +28,12 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0110-balanced-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
