@@ -42,6 +42,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
+| [0401-binary-watch](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +105,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
