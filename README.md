@@ -81,6 +81,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3713-longest-balanced-substring-i) |
