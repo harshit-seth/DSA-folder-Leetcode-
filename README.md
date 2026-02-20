@@ -47,6 +47,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
@@ -81,6 +82,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
+| [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
@@ -115,4 +117,8 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0031-next-permutation) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
