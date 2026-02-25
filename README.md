@@ -40,6 +40,7 @@ My personal collection of LeetCode problem solutions.
 | [0031-next-permutation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
@@ -96,6 +97,7 @@ My personal collection of LeetCode problem solutions.
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -119,6 +121,7 @@ My personal collection of LeetCode problem solutions.
 | [0401-binary-watch](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
@@ -133,6 +136,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Rolling Hash
 |  |
 | ------- |
