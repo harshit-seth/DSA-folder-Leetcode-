@@ -66,6 +66,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0278-first-bad-version](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0278-first-bad-version) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -147,4 +148,8 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
