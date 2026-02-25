@@ -42,6 +42,7 @@ My personal collection of LeetCode problem solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
@@ -68,6 +69,7 @@ My personal collection of LeetCode problem solutions.
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0278-first-bad-version) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
