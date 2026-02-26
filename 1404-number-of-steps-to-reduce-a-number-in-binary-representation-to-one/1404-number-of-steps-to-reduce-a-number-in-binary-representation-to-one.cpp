@@ -9,7 +9,7 @@ public:
             } else
                 steps += 1;
         }
-        
+
         return steps + carry;
     }
 };
