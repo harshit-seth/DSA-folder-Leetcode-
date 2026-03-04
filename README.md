@@ -46,6 +46,7 @@ My personal collection of LeetCode problem solutions.
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
@@ -191,6 +192,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Recursion
 |  |
 | ------- |
