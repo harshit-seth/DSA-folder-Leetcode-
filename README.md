@@ -44,6 +44,7 @@ My personal collection of LeetCode problem solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
@@ -183,11 +184,13 @@ My personal collection of LeetCode problem solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Rolling Hash
