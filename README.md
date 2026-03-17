@@ -243,6 +243,7 @@ My personal collection of LeetCode problem solutions.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
@@ -271,4 +272,8 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
