@@ -48,6 +48,7 @@ My personal collection of LeetCode problem solutions.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
+| [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -92,6 +93,7 @@ My personal collection of LeetCode problem solutions.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0441-arranging-coins) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -155,6 +157,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0799-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
