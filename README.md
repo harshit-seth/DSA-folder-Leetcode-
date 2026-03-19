@@ -261,6 +261,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -295,4 +296,5 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
