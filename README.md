@@ -167,6 +167,7 @@ My personal collection of LeetCode problem solutions.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0070-climbing-stairs) |
