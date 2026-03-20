@@ -60,6 +60,7 @@ My personal collection of LeetCode problem solutions.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
@@ -224,6 +225,7 @@ My personal collection of LeetCode problem solutions.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -258,6 +260,7 @@ My personal collection of LeetCode problem solutions.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Recursion
 |  |
 | ------- |
