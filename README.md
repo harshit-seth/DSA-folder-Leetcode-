@@ -63,6 +63,7 @@ My personal collection of LeetCode problem solutions.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3546-equal-sum-grid-partition-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
@@ -131,6 +132,7 @@ My personal collection of LeetCode problem solutions.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
@@ -161,6 +163,7 @@ My personal collection of LeetCode problem solutions.
 ## Enumeration
 |  |
 | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
@@ -272,6 +275,7 @@ My personal collection of LeetCode problem solutions.
 | [2906-construct-product-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
