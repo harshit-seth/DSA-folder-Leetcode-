@@ -59,6 +59,7 @@ My personal collection of LeetCode problem solutions.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1980-find-unique-binary-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2906-construct-product-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -107,6 +108,7 @@ My personal collection of LeetCode problem solutions.
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0441-arranging-coins) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -247,6 +249,7 @@ My personal collection of LeetCode problem solutions.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Rolling Hash
