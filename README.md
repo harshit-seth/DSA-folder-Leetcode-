@@ -27,6 +27,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1192-critical-connections-in-a-network](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1192-critical-connections-in-a-network) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -335,6 +336,7 @@ My personal collection of LeetCode problem solutions.
 ## Graph Theory
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1192-critical-connections-in-a-network) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -372,4 +374,8 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3474-lexicographically-smallest-generated-string) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
