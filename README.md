@@ -119,6 +119,7 @@ My personal collection of LeetCode problem solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
+| [0400-nth-digit](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0704-binary-search) |
@@ -224,6 +225,7 @@ My personal collection of LeetCode problem solutions.
 | [0070-climbing-stairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0231-power-of-two) |
+| [0400-nth-digit](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
