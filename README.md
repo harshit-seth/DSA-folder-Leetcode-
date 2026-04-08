@@ -66,6 +66,7 @@ My personal collection of LeetCode problem solutions.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1980-find-unique-binary-string) |
@@ -110,6 +111,7 @@ My personal collection of LeetCode problem solutions.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2573-find-the-string-with-lcp](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -130,6 +132,7 @@ My personal collection of LeetCode problem solutions.
 | [0704-binary-search](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0704-binary-search) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -158,6 +161,7 @@ My personal collection of LeetCode problem solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -296,6 +300,7 @@ My personal collection of LeetCode problem solutions.
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
@@ -361,6 +366,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Graph Theory
 |  |
