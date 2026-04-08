@@ -50,6 +50,7 @@ My personal collection of LeetCode problem solutions.
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0283-move-zeroes) |
@@ -244,6 +245,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0401-binary-watch) |
