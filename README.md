@@ -185,6 +185,7 @@ My personal collection of LeetCode problem solutions.
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
+| [0392-is-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -223,6 +224,7 @@ My personal collection of LeetCode problem solutions.
 | [0070-climbing-stairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0799-champagne-tower) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
@@ -296,6 +298,7 @@ My personal collection of LeetCode problem solutions.
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3643-flip-square-submatrix-vertically) |
