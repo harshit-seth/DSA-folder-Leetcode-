@@ -187,6 +187,7 @@ My personal collection of LeetCode problem solutions.
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -225,6 +226,7 @@ My personal collection of LeetCode problem solutions.
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0799-champagne-tower) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2573-find-the-string-with-lcp) |
