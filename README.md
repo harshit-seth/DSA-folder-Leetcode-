@@ -39,6 +39,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0031-next-permutation) |
@@ -111,6 +112,7 @@ My personal collection of LeetCode problem solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -288,6 +290,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0027-remove-element) |
