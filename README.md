@@ -69,6 +69,7 @@ My personal collection of LeetCode problem solutions.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1980-find-unique-binary-string) |
