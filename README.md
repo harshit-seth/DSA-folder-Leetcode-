@@ -53,6 +53,7 @@ My personal collection of LeetCode problem solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
@@ -109,6 +110,7 @@ My personal collection of LeetCode problem solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
@@ -157,6 +159,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0001-two-sum](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -223,6 +226,7 @@ My personal collection of LeetCode problem solutions.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
@@ -325,6 +329,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
