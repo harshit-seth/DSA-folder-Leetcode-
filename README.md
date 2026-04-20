@@ -105,6 +105,7 @@ My personal collection of LeetCode problem solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -204,6 +205,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0657-robot-return-to-origin) |
@@ -243,6 +245,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
