@@ -29,6 +29,7 @@ My personal collection of LeetCode problem solutions.
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1192-critical-connections-in-a-network) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My personal collection of LeetCode problem solutions.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -373,6 +375,7 @@ My personal collection of LeetCode problem solutions.
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
