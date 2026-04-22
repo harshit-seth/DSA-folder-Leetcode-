@@ -59,6 +59,7 @@ My personal collection of LeetCode problem solutions.
 | [0283-move-zeroes](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0704-binary-search) |
@@ -119,6 +120,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0190-reverse-bits) |
+| [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -151,6 +153,7 @@ My personal collection of LeetCode problem solutions.
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0704-binary-search) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
@@ -187,6 +190,7 @@ My personal collection of LeetCode problem solutions.
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
@@ -386,6 +390,7 @@ My personal collection of LeetCode problem solutions.
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Matrix
 |  |
@@ -474,4 +479,12 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
