@@ -4,14 +4,17 @@ public:
         int start = 0;
         int end = nums.size()-1;
 
-        int count = 0;
+        while(start <= end){
+            if(nums[start] == val) {
+                nums[start] = nums[end];
+                end--;
 
-        if {
-            nums[i] == val;
-            swap nums[i],nums[val]
+            }else{
+                start++;
+            }
         }
-        
+       
 
-        return 0;
+        return end+1;
     }
 };
