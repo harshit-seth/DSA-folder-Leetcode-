@@ -53,6 +53,7 @@ My personal collection of LeetCode problem solutions.
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
@@ -176,6 +177,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0874-walking-robot-simulation) |
@@ -395,6 +397,7 @@ My personal collection of LeetCode problem solutions.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2573-find-the-string-with-lcp) |
