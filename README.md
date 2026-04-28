@@ -226,6 +226,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0392-is-subsequence) |
