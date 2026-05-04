@@ -50,6 +50,7 @@ My personal collection of LeetCode problem solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
@@ -297,6 +298,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
@@ -427,6 +429,7 @@ My personal collection of LeetCode problem solutions.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1559-detect-cycles-in-2d-grid) |
