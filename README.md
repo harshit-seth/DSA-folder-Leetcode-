@@ -358,6 +358,7 @@ My personal collection of LeetCode problem solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -498,6 +499,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0203-remove-linked-list-elements) |
