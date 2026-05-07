@@ -113,6 +113,7 @@ My personal collection of LeetCode problem solutions.
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
@@ -294,6 +295,7 @@ My personal collection of LeetCode problem solutions.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3660-jump-game-ix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
