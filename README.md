@@ -105,6 +105,7 @@ My personal collection of LeetCode problem solutions.
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2615-sum-of-distances) |
@@ -197,6 +198,7 @@ My personal collection of LeetCode problem solutions.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -217,6 +219,7 @@ My personal collection of LeetCode problem solutions.
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -406,6 +409,7 @@ My personal collection of LeetCode problem solutions.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
