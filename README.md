@@ -151,6 +151,7 @@ My personal collection of LeetCode problem solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
@@ -534,6 +535,7 @@ My personal collection of LeetCode problem solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0023-merge-k-sorted-lists) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -553,6 +555,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -589,6 +592,7 @@ My personal collection of LeetCode problem solutions.
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0912-sort-an-array) |
 ## Geometry
