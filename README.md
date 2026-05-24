@@ -77,6 +77,7 @@ My personal collection of LeetCode problem solutions.
 | [0912-sort-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0912-sort-an-array) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
 | [1306-jump-game-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -324,6 +325,7 @@ My personal collection of LeetCode problem solutions.
 | [0799-champagne-tower](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0799-champagne-tower) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2463-minimum-total-distance-traveled) |
@@ -428,6 +430,7 @@ My personal collection of LeetCode problem solutions.
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0912-sort-an-array) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
+| [1340-jump-game-v](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1679-max-number-of-k-sum-pairs) |
