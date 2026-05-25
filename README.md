@@ -213,6 +213,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -269,6 +270,7 @@ My personal collection of LeetCode problem solutions.
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
@@ -340,6 +342,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0066-plus-one) |
