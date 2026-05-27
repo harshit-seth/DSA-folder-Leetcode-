@@ -1,17 +1,24 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        vector<int> listVals;
-        while (head) {
-            listVals.push_back(head->val);
+        vector<int> arr;
+
+        while (head != nullptr) {
+            arr.push_back(head->val);
             head = head->next;
         }
-        
-        int left = 0, right = listVals.size() - 1;
-        while (left < right && listVals[left] == listVals[right]) {
+
+        int left = 0;
+        int right = arr.size() - 1;
+
+        while (left < right) {
+            if (arr[left] != arr[right]) {
+                return false;
+            }
             left++;
             right--;
         }
-        return left >= right;
+
+        return true;        
     }
 };
