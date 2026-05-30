@@ -120,6 +120,7 @@ My personal collection of LeetCode problem solutions.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -206,6 +207,7 @@ My personal collection of LeetCode problem solutions.
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3161-block-placement-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3488-closest-equal-element-queries) |
@@ -249,6 +251,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -610,6 +613,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3161-block-placement-queries) |
 ## Merge Sort
 |  |
 | ------- |
