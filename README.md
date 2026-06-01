@@ -225,6 +225,7 @@ My personal collection of LeetCode problem solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0874-walking-robot-simulation) |
@@ -425,6 +426,7 @@ My personal collection of LeetCode problem solutions.
 | [0061-rotate-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
@@ -587,6 +589,7 @@ My personal collection of LeetCode problem solutions.
 | [0061-rotate-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0206-reverse-linked-list) |
