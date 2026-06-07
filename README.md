@@ -22,6 +22,7 @@ My personal collection of LeetCode problem solutions.
 | [0110-balanced-binary-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ My personal collection of LeetCode problem solutions.
 | [0110-balanced-binary-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +107,7 @@ My personal collection of LeetCode problem solutions.
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -241,6 +244,7 @@ My personal collection of LeetCode problem solutions.
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
