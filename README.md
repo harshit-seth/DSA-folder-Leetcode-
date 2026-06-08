@@ -107,6 +107,7 @@ My personal collection of LeetCode problem solutions.
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2463-minimum-total-distance-traveled) |
@@ -427,6 +428,7 @@ My personal collection of LeetCode problem solutions.
 | [1914-cyclically-rotating-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -456,6 +458,7 @@ My personal collection of LeetCode problem solutions.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
