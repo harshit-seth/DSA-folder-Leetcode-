@@ -4,36 +4,41 @@ public:
         stack<char> st;
 
         for (char ch : s) {
-            // Push opening brackets
+
+            // Agar opening bracket hai to stack me daal do
             if (ch == '(' || ch == '{' || ch == '[') {
                 st.push(ch);
             }
-            // Match closing brackets
             else {
+
+                // Closing bracket mila lekin stack khali hai
+                // Matlab koi matching opening bracket nahi hai
                 if (st.empty())
                     return false;
 
+                // Har closing bracket ke liye top check karo
                 if (ch == ')') {
                     if (st.top() == '(')
-                        st.pop();
+                        st.pop();   // Match mil gaya
                     else
                         return false;
                 }
                 else if (ch == '}') {
                     if (st.top() == '{')
-                        st.pop();
+                        st.pop();   // Match mil gaya
                     else
                         return false;
                 }
                 else if (ch == ']') {
                     if (st.top() == '[')
-                        st.pop();
+                        st.pop();   // Match mil gaya
                     else
                         return false;
                 }
             }
         }
 
+        // Agar stack empty hai to saare brackets sahi match hue
         return st.empty();
     }
 };
