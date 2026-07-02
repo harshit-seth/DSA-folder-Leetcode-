@@ -31,7 +31,7 @@ public:
                 }
                 else if (ch == ']') {
                     if (st.top() == '[')
-                        st.pop();   // Match mil gaya
+                         st.pop();   // Match mil gaya
                     else
                         return false;
                 }
