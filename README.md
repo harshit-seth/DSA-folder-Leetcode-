@@ -308,6 +308,7 @@ My personal collection of LeetCode problem solutions.
 | [0008-string-to-integer-atoi](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
@@ -647,6 +648,7 @@ My personal collection of LeetCode problem solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0234-palindrome-linked-list) |
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
 ## String Matching
