@@ -80,6 +80,7 @@ My personal collection of LeetCode problem solutions.
 | [0874-walking-robot-simulation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0912-sort-an-array) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
+| [1288-remove-covered-intervals](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1340-jump-game-v) |
@@ -492,6 +493,7 @@ My personal collection of LeetCode problem solutions.
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0912-sort-an-array) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
+| [1288-remove-covered-intervals](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
