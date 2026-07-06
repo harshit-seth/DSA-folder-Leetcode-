@@ -73,6 +73,7 @@ My personal collection of LeetCode problem solutions.
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
@@ -253,6 +254,7 @@ My personal collection of LeetCode problem solutions.
 | [0142-linked-list-cycle-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -664,6 +666,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
 ## String Matching
 |  |
@@ -720,4 +723,8 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3620-network-recovery-pathways) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
