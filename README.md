@@ -307,6 +307,7 @@ My personal collection of LeetCode problem solutions.
 | [3714-longest-balanced-substring-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -348,6 +349,7 @@ My personal collection of LeetCode problem solutions.
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
@@ -421,6 +423,7 @@ My personal collection of LeetCode problem solutions.
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
