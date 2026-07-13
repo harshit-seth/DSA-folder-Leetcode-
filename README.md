@@ -366,6 +366,7 @@ My personal collection of LeetCode problem solutions.
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1291-sequential-digits) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3713-longest-balanced-substring-i) |
