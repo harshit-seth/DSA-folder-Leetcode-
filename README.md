@@ -430,6 +430,7 @@ My personal collection of LeetCode problem solutions.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -739,6 +740,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Shortest Path
 |  |
 | ------- |
