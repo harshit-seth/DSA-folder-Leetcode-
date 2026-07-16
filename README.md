@@ -663,6 +663,7 @@ My personal collection of LeetCode problem solutions.
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2069-walking-robot-simulation-ii) |
 ## Memoization
@@ -697,6 +698,7 @@ My personal collection of LeetCode problem solutions.
 | [0020-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
 ## String Matching
 |  |
@@ -760,4 +762,9 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
