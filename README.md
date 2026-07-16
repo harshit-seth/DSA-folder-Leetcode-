@@ -164,6 +164,7 @@ My personal collection of LeetCode problem solutions.
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -438,6 +439,7 @@ My personal collection of LeetCode problem solutions.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -472,6 +474,7 @@ My personal collection of LeetCode problem solutions.
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -504,6 +507,7 @@ My personal collection of LeetCode problem solutions.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -537,6 +541,7 @@ My personal collection of LeetCode problem solutions.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -741,6 +746,7 @@ My personal collection of LeetCode problem solutions.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Shortest Path
 |  |
 | ------- |
