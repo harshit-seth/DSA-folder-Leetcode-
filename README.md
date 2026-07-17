@@ -60,6 +60,7 @@ My personal collection of LeetCode problem solutions.
 | [0066-plus-one](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0136-single-number) |
@@ -704,6 +705,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
@@ -770,6 +772,7 @@ My personal collection of LeetCode problem solutions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
 ## Data Stream
