@@ -83,6 +83,7 @@ My personal collection of LeetCode problem solutions.
 | [0874-walking-robot-simulation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0912-sort-an-array) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
+| [1260-shift-2d-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1306-jump-game-iii) |
@@ -474,6 +475,7 @@ My personal collection of LeetCode problem solutions.
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -601,6 +603,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
