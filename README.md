@@ -148,6 +148,7 @@ My personal collection of LeetCode problem solutions.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -250,6 +251,7 @@ My personal collection of LeetCode problem solutions.
 | [3312-sorted-gcd-pair-queries](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3620-network-recovery-pathways) |
@@ -301,6 +303,7 @@ My personal collection of LeetCode problem solutions.
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
@@ -364,6 +367,7 @@ My personal collection of LeetCode problem solutions.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3714-longest-balanced-substring-ii) |
