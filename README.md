@@ -61,6 +61,7 @@ My personal collection of LeetCode problem solutions.
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0136-single-number) |
@@ -396,6 +397,7 @@ My personal collection of LeetCode problem solutions.
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0392-is-subsequence) |
@@ -612,6 +614,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -722,6 +725,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
@@ -791,6 +795,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
