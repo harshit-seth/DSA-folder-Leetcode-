@@ -149,6 +149,7 @@ My personal collection of LeetCode problem solutions.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -448,6 +449,7 @@ My personal collection of LeetCode problem solutions.
 | [3312-sorted-gcd-pair-queries](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -474,6 +476,7 @@ My personal collection of LeetCode problem solutions.
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
