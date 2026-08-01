@@ -78,6 +78,7 @@ My personal collection of LeetCode problem solutions.
 | [0283-move-zeroes](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -418,6 +419,7 @@ My personal collection of LeetCode problem solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0799-champagne-tower) |
@@ -454,6 +456,7 @@ My personal collection of LeetCode problem solutions.
 | [0231-power-of-two](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0231-power-of-two) |
 | [0400-nth-digit](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -679,6 +682,7 @@ My personal collection of LeetCode problem solutions.
 | [0206-reverse-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
@@ -839,4 +843,8 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
