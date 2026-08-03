@@ -99,6 +99,7 @@ My personal collection of LeetCode problem solutions.
 | [1345-jump-game-iv](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -429,6 +430,7 @@ My personal collection of LeetCode problem solutions.
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2463-minimum-total-distance-traveled) |
@@ -464,6 +466,7 @@ My personal collection of LeetCode problem solutions.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -851,4 +854,13 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0486-predict-the-winner](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
