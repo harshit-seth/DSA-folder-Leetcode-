@@ -198,6 +198,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
@@ -554,6 +555,7 @@ My personal collection of LeetCode problem solutions.
 | [0141-linked-list-cycle](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
@@ -578,6 +580,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
@@ -763,6 +766,7 @@ My personal collection of LeetCode problem solutions.
 | [0141-linked-list-cycle](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0206-reverse-linked-list) |
@@ -808,6 +812,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0912-sort-an-array) |
 ## Geometry
