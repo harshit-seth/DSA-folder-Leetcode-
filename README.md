@@ -443,6 +443,7 @@ My personal collection of LeetCode problem solutions.
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2463-minimum-total-distance-traveled) |
@@ -481,6 +482,7 @@ My personal collection of LeetCode problem solutions.
 | [0877-stone-game](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -883,14 +885,25 @@ My personal collection of LeetCode problem solutions.
 | [0877-stone-game](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
