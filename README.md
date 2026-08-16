@@ -122,6 +122,7 @@ My personal collection of LeetCode problem solutions.
 | [1914-cyclically-rotating-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -225,6 +226,7 @@ My personal collection of LeetCode problem solutions.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2029-stone-game-ix](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -417,6 +419,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -498,6 +501,7 @@ My personal collection of LeetCode problem solutions.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -903,22 +907,26 @@ My personal collection of LeetCode problem solutions.
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
