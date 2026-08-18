@@ -162,6 +162,7 @@ My personal collection of LeetCode problem solutions.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -317,6 +318,7 @@ My personal collection of LeetCode problem solutions.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3548-equal-sum-grid-partition-ii) |
