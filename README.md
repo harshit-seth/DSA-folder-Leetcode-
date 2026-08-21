@@ -77,6 +77,7 @@ My personal collection of LeetCode problem solutions.
 | [0216-combination-sum-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
+| [0455-assign-cookies](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
@@ -224,6 +225,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1386-cinema-seat-allocation) |
@@ -607,6 +609,7 @@ My personal collection of LeetCode problem solutions.
 | [0234-palindrome-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -629,6 +632,7 @@ My personal collection of LeetCode problem solutions.
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
@@ -955,4 +959,8 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
