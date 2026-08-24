@@ -1,20 +1,18 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int start = 0;
-        int end = nums.size()-1;
-
-        while(start <= end){
-            if(nums[start] == val) {
-                nums[start] = nums[end];
-                end--;
-
-            }else{
-                start++;
+        int left = 0;
+        int right = nums.size() - 1;
+        
+        while (left <= right) {
+            if (nums[left] == val) {
+                // Swap the target with the element at the right pointer
+                nums[left] = nums[right];
+                right--; // Shrink the valid bounds from the right
+            } else {
+                left++; // Move forward if the current element is valid
             }
         }
-       
-
-        return end+1;
+        return left; 
     }
 };
