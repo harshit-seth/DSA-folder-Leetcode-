@@ -1,20 +1,19 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-        for (int i = 0; i < (int)numbers.size() - 1; i++) {
-            int complement = target - numbers[i];
-            int lo = i + 1, hi = (int)numbers.size() - 1;
-            
-            while (lo <= hi) {
-                int mid = lo + (hi - lo) / 2;
-                if (numbers[mid] == complement)
-                    return {i + 1, mid + 1};  // 1-indexed
-                else if (numbers[mid] < complement)
-                    lo = mid + 1;
-                else
-                    hi = mid - 1;
+        int left = 0;
+        int right = numbers.size() - 1;
+
+        while (left < right) {
+            int total = numbers[left] + numbers[right];
+            if (total == target) {
+                return {left + 1, right + 1};
+            } else if (total > target) {
+                right--;
+            } else {
+                left++;
             }
         }
-        return {};  // guaranteed to have a solution
+        return {};
     }
 };
