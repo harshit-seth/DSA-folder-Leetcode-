@@ -179,6 +179,7 @@ My personal collection of LeetCode problem solutions.
 | [3546-equal-sum-grid-partition-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -340,6 +341,7 @@ My personal collection of LeetCode problem solutions.
 | [3488-closest-equal-element-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3714-longest-balanced-substring-ii) |
@@ -591,6 +593,7 @@ My personal collection of LeetCode problem solutions.
 | [3513-number-of-unique-xor-triplets-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -722,6 +725,7 @@ My personal collection of LeetCode problem solutions.
 | [2685-count-the-number-of-complete-components](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
@@ -773,6 +777,7 @@ My personal collection of LeetCode problem solutions.
 | [3546-equal-sum-grid-partition-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
