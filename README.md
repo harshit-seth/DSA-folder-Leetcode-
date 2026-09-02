@@ -57,6 +57,7 @@ My personal collection of LeetCode problem solutions.
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0051-n-queens) |
@@ -479,6 +480,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -626,6 +628,7 @@ My personal collection of LeetCode problem solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0086-partition-list) |
@@ -875,6 +878,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
@@ -951,6 +955,7 @@ My personal collection of LeetCode problem solutions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
