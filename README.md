@@ -413,6 +413,7 @@ My personal collection of LeetCode problem solutions.
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0819-most-common-word) |
+| [0940-distinct-subsequences-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -498,6 +499,7 @@ My personal collection of LeetCode problem solutions.
 | [0788-rotated-digits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
