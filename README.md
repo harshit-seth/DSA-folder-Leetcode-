@@ -528,6 +528,7 @@ My personal collection of LeetCode problem solutions.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
@@ -799,6 +800,7 @@ My personal collection of LeetCode problem solutions.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0025-reverse-nodes-in-k-group) |
@@ -863,6 +865,7 @@ My personal collection of LeetCode problem solutions.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0023-merge-k-sorted-lists) |
