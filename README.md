@@ -92,6 +92,7 @@ My personal collection of LeetCode problem solutions.
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0819-most-common-word) |
+| [0835-image-overlap](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0912-sort-an-array) |
@@ -781,6 +782,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
