@@ -100,6 +100,7 @@ My personal collection of LeetCode problem solutions.
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
 | [1260-shift-2d-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1288-remove-covered-intervals) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
@@ -576,6 +577,7 @@ My personal collection of LeetCode problem solutions.
 | [0877-stone-game](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
