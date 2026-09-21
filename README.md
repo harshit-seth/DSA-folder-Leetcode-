@@ -328,6 +328,7 @@ My personal collection of LeetCode problem solutions.
 | [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0202-happy-number) |
@@ -894,6 +895,7 @@ My personal collection of LeetCode problem solutions.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2069-walking-robot-simulation-ii) |
@@ -918,6 +920,7 @@ My personal collection of LeetCode problem solutions.
 | [0141-linked-list-cycle](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0203-remove-linked-list-elements) |
@@ -1074,4 +1077,8 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0202-happy-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
