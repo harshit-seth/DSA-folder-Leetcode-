@@ -128,6 +128,7 @@ My personal collection of LeetCode problem solutions.
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -354,6 +355,7 @@ My personal collection of LeetCode problem solutions.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2540-minimum-common-value) |
@@ -458,6 +460,7 @@ My personal collection of LeetCode problem solutions.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1980-find-unique-binary-string) |
