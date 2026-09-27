@@ -447,6 +447,7 @@ My personal collection of LeetCode problem solutions.
 | [0940-distinct-subsequences-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -965,6 +966,7 @@ My personal collection of LeetCode problem solutions.
 | [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
 ## String Matching
 |  |
@@ -1101,4 +1103,8 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0146-lru-cache) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
