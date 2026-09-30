@@ -450,6 +450,7 @@ My personal collection of LeetCode problem solutions.
 | [0940-distinct-subsequences-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -973,6 +974,7 @@ My personal collection of LeetCode problem solutions.
 | [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
@@ -1114,6 +1116,7 @@ My personal collection of LeetCode problem solutions.
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
