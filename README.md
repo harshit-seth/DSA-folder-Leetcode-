@@ -436,6 +436,7 @@ My personal collection of LeetCode problem solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0115-distinct-subsequences) |
@@ -530,6 +531,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
@@ -964,6 +966,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
@@ -1117,6 +1120,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
