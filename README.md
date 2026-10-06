@@ -256,6 +256,7 @@ My personal collection of LeetCode problem solutions.
 | [0011-container-with-most-water](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1386-cinema-seat-allocation) |
@@ -451,6 +452,7 @@ My personal collection of LeetCode problem solutions.
 | [0796-rotate-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1096-brace-expansion-ii) |
@@ -981,6 +983,7 @@ My personal collection of LeetCode problem solutions.
 | [0678-valid-parenthesis-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1129,6 +1132,7 @@ My personal collection of LeetCode problem solutions.
 | [0032-longest-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
