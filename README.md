@@ -230,6 +230,7 @@ My personal collection of LeetCode problem solutions.
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -444,6 +445,7 @@ My personal collection of LeetCode problem solutions.
 | [0115-distinct-subsequences](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0657-robot-return-to-origin) |
@@ -806,6 +808,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1345-jump-game-iv) |
