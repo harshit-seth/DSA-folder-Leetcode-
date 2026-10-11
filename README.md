@@ -162,6 +162,7 @@ My personal collection of LeetCode problem solutions.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -529,6 +530,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3499-maximize-active-section-with-trade-i) |
