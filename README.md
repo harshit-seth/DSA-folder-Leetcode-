@@ -35,6 +35,7 @@ My personal collection of LeetCode problem solutions.
 | [0199-binary-tree-right-side-view](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -103,6 +104,7 @@ My personal collection of LeetCode problem solutions.
 | [0912-sort-an-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1187-make-array-strictly-increasing) |
+| [1254-number-of-closed-islands](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -854,6 +856,7 @@ My personal collection of LeetCode problem solutions.
 | [0199-binary-tree-right-side-view](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -869,6 +872,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -892,6 +896,7 @@ My personal collection of LeetCode problem solutions.
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
