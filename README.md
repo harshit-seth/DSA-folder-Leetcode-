@@ -44,6 +44,7 @@ My personal collection of LeetCode problem solutions.
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -209,6 +210,7 @@ My personal collection of LeetCode problem solutions.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -866,6 +868,7 @@ My personal collection of LeetCode problem solutions.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
@@ -883,6 +886,7 @@ My personal collection of LeetCode problem solutions.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -923,6 +927,7 @@ My personal collection of LeetCode problem solutions.
 | [3548-equal-sum-grid-partition-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
