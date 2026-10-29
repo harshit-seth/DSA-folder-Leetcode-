@@ -27,6 +27,7 @@ My personal collection of LeetCode problem solutions.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ My personal collection of LeetCode problem solutions.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@ My personal collection of LeetCode problem solutions.
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -270,6 +273,7 @@ My personal collection of LeetCode problem solutions.
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -435,6 +439,7 @@ My personal collection of LeetCode problem solutions.
 | [3691-maximum-total-subarray-value-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -541,6 +546,7 @@ My personal collection of LeetCode problem solutions.
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3794-reverse-string-prefix) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
@@ -724,6 +730,7 @@ My personal collection of LeetCode problem solutions.
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -1078,6 +1085,7 @@ My personal collection of LeetCode problem solutions.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3161-block-placement-queries) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
