@@ -88,6 +88,7 @@ My personal collection of LeetCode problem solutions.
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -328,6 +329,7 @@ My personal collection of LeetCode problem solutions.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0400-nth-digit) |
@@ -376,6 +378,7 @@ My personal collection of LeetCode problem solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0874-walking-robot-simulation) |
@@ -646,6 +649,7 @@ My personal collection of LeetCode problem solutions.
 | [0189-rotate-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -715,6 +719,7 @@ My personal collection of LeetCode problem solutions.
 | [0136-single-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0868-binary-gap) |
@@ -808,6 +813,7 @@ My personal collection of LeetCode problem solutions.
 | [0075-sort-colors](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
