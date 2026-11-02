@@ -93,6 +93,7 @@ My personal collection of LeetCode problem solutions.
 | [0300-longest-increasing-subsequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0493-reverse-pairs) |
@@ -653,6 +654,7 @@ My personal collection of LeetCode problem solutions.
 | [0400-nth-digit](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -815,6 +817,7 @@ My personal collection of LeetCode problem solutions.
 | [0169-majority-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0658-find-k-closest-elements) |
 | [0761-special-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0761-special-binary-string) |
