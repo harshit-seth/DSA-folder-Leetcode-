@@ -173,6 +173,7 @@ My personal collection of LeetCode problem solutions.
 | [2574-left-and-right-sum-differences](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -406,6 +407,7 @@ My personal collection of LeetCode problem solutions.
 | [2540-minimum-common-value](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -854,6 +856,7 @@ My personal collection of LeetCode problem solutions.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -992,6 +995,7 @@ My personal collection of LeetCode problem solutions.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
