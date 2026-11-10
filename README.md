@@ -234,6 +234,7 @@ My personal collection of LeetCode problem solutions.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3719-longest-balanced-subarray-i) |
@@ -646,6 +647,7 @@ My personal collection of LeetCode problem solutions.
 | [3620-network-recovery-pathways](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3693-climbing-stairs-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
