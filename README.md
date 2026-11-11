@@ -328,6 +328,7 @@ My personal collection of LeetCode problem solutions.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -725,6 +726,7 @@ My personal collection of LeetCode problem solutions.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3871-count-commas-in-range-ii) |
