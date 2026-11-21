@@ -27,6 +27,7 @@ My personal collection of LeetCode problem solutions.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -45,6 +46,7 @@ My personal collection of LeetCode problem solutions.
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -205,6 +207,7 @@ My personal collection of LeetCode problem solutions.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -431,6 +434,7 @@ My personal collection of LeetCode problem solutions.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3488-closest-equal-element-queries) |
@@ -563,6 +567,7 @@ My personal collection of LeetCode problem solutions.
 | [3093-longest-common-suffix-queries](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3498-reverse-degree-of-a-string) |
