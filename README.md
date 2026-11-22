@@ -547,6 +547,7 @@ My personal collection of LeetCode problem solutions.
 | [1927-sum-game](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/2409-count-days-spent-together) |
