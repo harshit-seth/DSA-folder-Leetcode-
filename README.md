@@ -122,6 +122,7 @@ My personal collection of LeetCode problem solutions.
 | [1331-rank-transform-of-an-array](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1386-cinema-seat-allocation) |
@@ -474,6 +475,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -703,6 +705,7 @@ My personal collection of LeetCode problem solutions.
 | [1140-stone-game-ii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1510-stone-game-iv) |
@@ -1075,6 +1078,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0146-lru-cache](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/2069-walking-robot-simulation-ii) |
 ## Memoization
@@ -1220,6 +1224,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Combinatorics
 |  |
 | ------- |
