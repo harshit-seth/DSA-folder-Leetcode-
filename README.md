@@ -71,6 +71,7 @@ My personal collection of LeetCode problem solutions.
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
@@ -396,6 +397,7 @@ My personal collection of LeetCode problem solutions.
 | [0013-roman-to-integer](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0142-linked-list-cycle-ii) |
@@ -978,6 +980,7 @@ My personal collection of LeetCode problem solutions.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0835-image-overlap) |
