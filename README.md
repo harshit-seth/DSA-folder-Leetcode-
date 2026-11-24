@@ -519,6 +519,7 @@ My personal collection of LeetCode problem solutions.
 | [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0115-distinct-subsequences) |
