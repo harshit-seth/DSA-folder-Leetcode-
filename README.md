@@ -72,6 +72,7 @@ My personal collection of LeetCode problem solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
@@ -271,6 +272,7 @@ My personal collection of LeetCode problem solutions.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0216-combination-sum-iii) |
@@ -398,6 +400,7 @@ My personal collection of LeetCode problem solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0142-linked-list-cycle-ii) |
@@ -981,6 +984,7 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/harshitseth-1/Leetcode_Solutions-DSA-Folder-/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0835-image-overlap) |
@@ -1323,4 +1327,12 @@ My personal collection of LeetCode problem solutions.
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harshit-seth/DSA-folder-Leetcode-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
